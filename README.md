@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Deborah
 
 <!--
 **deborahmasibo/deborahmasibo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a data scienctist with a very deep interest in data analytics, machine learning, and deep learning. I enjoy finding new ways to derive the most information and insights from data, to be used for various business applications. Data science to me is like embraking on an adventure of a lifetime!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?deborahmasibo=anuraghazra&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

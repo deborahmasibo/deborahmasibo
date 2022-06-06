@@ -15,6 +15,6 @@ I am a data scienctist with a very deep interest in data analytics, machine lear
 
 <br></br>
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahmasibo&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahmasibo&show_icons=true&theme=tokyonight)
 
 
